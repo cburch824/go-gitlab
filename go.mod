@@ -1,4 +1,4 @@
-module github.com/xanzy/go-gitlab
+module github.com/cburch824/go-gitlab
 
 go 1.18
 
